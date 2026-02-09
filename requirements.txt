@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+beautifulsoup4
+schedule
+requests-html
+jdatetime
+lxml
